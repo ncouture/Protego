@@ -10,7 +10,7 @@ scikit-image==0.22.0
 timm==0.9.16
 torch==2.0.1
 torchvision==0.15.2
-tqdm==4.66.2
+tqdm==4.66.3
 chumpy==0.70
 gdown
 fvcore
