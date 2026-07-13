@@ -1,5 +1,12 @@
 # [CVPR2026 & [CVPR Compute Gold Star](https://cvpr.thecvf.com/Conferences/2026/ComputeReporting)]Protego: User-Centric Pose-Invariant Privacy Protection Against Face Recognition-Induced Digital Footprint Exposure
 
+## Updates
+
+* [2026.7.12] Inspired by the difficulties met when working on Protego, we've built [FRBench](https://github.com/HKU-TASR/FRBench), an end-to-end differentiable face-recognition module that ships 45+ pretrained weights, covering 25 backbones, 9 loss functions, and 3 training datasets spanning generations since 2015.
+* [2026.6.11] We've released the training code of Protego
+* [2026.6.07] Protego has been selected to receive [the CVPR Compute Gold Star](https://cvpr.thecvf.com/Conferences/2026/ComputeReporting) — one of the most distinguished recognitions in CVPR 2026’s new Compute Reporting Initiative!
+* [2026.2.21] Protego got accepted by CVPR2026! See you in Denver, Colorado!
+
 ## Introduction
 
 ![Intro](assets/intro-git.png)
